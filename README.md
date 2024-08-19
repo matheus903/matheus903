@@ -1,6 +1,6 @@
 ### Boas Vindas ao Meu Perfil
 
-Meu nome é Bruno
+Meu nome é matheus
 
 -Estou estudando no [Alura](https;//www.alura.com.br)
 -Estou me desenvolvendo na linguagem Javascript
